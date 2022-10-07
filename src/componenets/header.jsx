@@ -3,7 +3,9 @@ import React from "react";
 export default function header() {
   return (
     <div>
-      <h1>Hello World!</h1>
+      <main>
+        <h3>"Bye World!"</h3>
+      </main>
     </div>
   );
 }
