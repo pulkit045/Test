@@ -1,1 +1,2 @@
-const x = 5;
+const x = 6;
+const y = 69;
