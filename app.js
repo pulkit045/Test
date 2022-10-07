@@ -11,6 +11,11 @@ app.get("/about", (req, res) => {
 app.get("/contact", (req, res) => {
   res.send("Contact at shivam@randi.mc");
 });
+
+app.get("/shivam", (req, res) => {
+  res.send("Contact at shivam@randi.mc");
+});
+
 app.listen(3000, () => {
   console.log("Server has started on port 3000!, welcome back");
 });
