@@ -3,5 +3,5 @@ const y = 69;
 
 console.log(x + y);
 
-const shivam = "randi";
-console.log(shivam + "rona");
+const pulkit = "bkl chutiya randi gelchoda bsdk";
+console.log(pulkit + "gandiya gandu");
